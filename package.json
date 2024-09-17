@@ -1,0 +1,15 @@
+{
+  "name": "junior-challenge",
+  "version": "1.0.0",
+  "description": "We are hiring! 🚀 If you are in our hiring process or considering Harbiz a company in which you would like to work, solve the following challenges and let us know! 😎",
+  "main": "resolution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
