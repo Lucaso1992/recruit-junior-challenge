@@ -48,7 +48,6 @@ function asignarClientes(entrenadores, clientes) {
             mejorEntrenador.plazas--; 
         }
     }
-    console.log(asignaciones)
     return asignaciones;
 }
 
