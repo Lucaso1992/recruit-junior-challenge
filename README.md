@@ -1,3 +1,14 @@
+#RESOLUCION
+
+Dentro de resolution.js podemos encontrar la lógica que se aplicó para resolver el ejercicio.
+Ejecutando el comando: node resolution.js se imprime el resultado en terminal.
+
+Se utilizó la librería jest para ejecutar los tests correspondientes. 
+Ejecutando el comando: npm test podemos realizar las pruebas.
+
+
+*************************************************************************************************************************************************************************
+
 We are hiring! 🚀 If you are in our hiring process or considering Harbiz a company in which you would like to work, solve the following challenges and let us know! 😎
 
 # Test Full-Stack Harbiz
