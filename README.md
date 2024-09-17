@@ -1,4 +1,4 @@
-#RESOLUCION
+# RESOLUCION - Lucas Solari
 
 Dentro de resolution.js podemos encontrar la lógica que se aplicó para resolver el ejercicio.
 Ejecutando el comando: node resolution.js se imprime el resultado en terminal.
